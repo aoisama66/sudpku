@@ -1,0 +1,10 @@
+{
+  "name": "Sudoku",
+  "short_name": "Sudoku",
+  "start_url": ".",
+  "display": "standalone",
+  "orientation": "landscape",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "icons": []
+}
